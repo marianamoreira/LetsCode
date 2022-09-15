@@ -1,0 +1,13 @@
+br\letscode\endpoints\ClienteEndpoints.class
+br\letscode\services\impl\ProdutoServiceImpl.class
+br\letscode\services\ProdutoService.class
+br\letscode\services\ClienteService.class
+br\letscode\models\Produto.class
+br\letscode\services\impl\ClienteServiceImpl.class
+br\letscode\WebComQuarkusApp.class
+br\letscode\GreetingResource.class
+br\letscode\QuarkusAppMain.class
+META-INF\panache-archive.marker
+br\letscode\dao\ClienteDao.class
+br\letscode\dao\ProdutoDao.class
+br\letscode\endpoints\ProdutoEndpoints.class
